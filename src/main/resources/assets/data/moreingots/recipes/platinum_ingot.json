@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "idi",
+    "   "
+  ],
+  "key": {
+    "i": {
+      "item": "minecraft:iron_ingot"
+    },
+    "d": {
+      "tag": "minecraft:diamond"
+    }
+  },
+  "result": {
+    "item": "moreingots:platinum_ingot"
+  }
+} 

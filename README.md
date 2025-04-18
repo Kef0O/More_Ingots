@@ -1,2 +1,3 @@
 # More Ingots!
-Mod that adds platinum and steel
+Mod that adds platinum and steel (WIP)
+  

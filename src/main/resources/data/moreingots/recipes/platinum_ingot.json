@@ -6,14 +6,14 @@
     "   "
   ],
   "key": {
+    "d": {
+      "item": "minecraft:diamond"
+    },
     "i": {
       "item": "minecraft:iron_ingot"
-    },
-    "d": {
-      "tag": "minecraft:diamond"
     }
   },
   "result": {
     "item": "moreingots:platinum_ingot"
   }
-} 
+}
